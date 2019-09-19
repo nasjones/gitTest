@@ -1,3 +1,3 @@
 function greeting(){
-console.log("hey brooklyn");
+console.log("hey queens");
 }
